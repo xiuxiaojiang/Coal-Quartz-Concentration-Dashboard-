@@ -124,7 +124,7 @@ footer p {
 /* Styling for the iframe that holds the PDF */
 iframe {
     max-width: 100%;
-    height: 1300px; /* Set a fixed height for the iframe to fit the PDF */
+    height: 800px; /* Set a fixed height for the iframe to fit the PDF */
     border: 1px solid #ddd;
     border-radius: 8px;
     object-fit: contain; /* Ensures the PDF maintains its aspect ratio */
